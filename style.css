@@ -1,0 +1,162 @@
+
+*{
+    background-color: #2c2626;
+}
+
+/* main div */
+
+
+#main{
+    border: hidden;
+    height: 300px;
+    width: 250px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-attachment: fixed;
+   background-color: #2c2626;
+   border-radius: 10px;
+   box-shadow: 5px 5px 5px 20px rgb(61, 60, 60);
+}
+
+/* display button  */
+#display{
+    border: hidden;
+    border-radius: 10x;
+    height: 50px;
+    
+    transform: 20dg;
+}
+input{
+    border-radius: 10x;
+    height: 43px;
+    text-align: right;
+    font-size: xx-large;
+    width: 240px;
+    border-radius: 10px;
+    background-color: darkseagreen; 
+     text-align: right;
+    font-size: xx-large;
+    
+}
+/* div 2 */
+#div2{
+    border:hidden;
+    height: 40px;
+    margin-top: 5px;
+    
+  
+} 
+button[class=btnc]{
+    width: 125px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+}
+button[class=btn1]{
+    width: 55px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+   
+}
+button[class=star]{
+    width: 55px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+}
+/* div 3 */
+ #div3{
+    border: hidden;
+    height: 40px;
+    margin-top: 5px;
+
+ }
+button[class=line]{
+    width: 58px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+}
+/* div 4 */
+#div4{
+    border:hidden;
+    height: 40px;
+    margin-top: 5px;
+    width: 185px;
+}
+button[class=line4]{
+    width: 58px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+}
+/* div 5 */
+#plus{
+    border: hidden;
+    height: 85px;
+    width: 54px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 6px;
+    margin-top: 5px;
+    color: white;
+}
+    
+button[class=up]{
+    height: 85px;
+    width: 54px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+}
+#div6{
+    border:hidden;
+    height: 40px;
+    margin-top: 5px;
+    width: 185px;
+
+}
+button[class=line5]{
+    width: 58px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+}
+#div7{
+    border:hidden;
+    height: 40px;
+    margin-top: 5px;
+   
+}
+button[class=line6]{
+    width: 58px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 41);
+    color: white;
+  
+}
+/*  for hover */
+button:hover{
+    background-color: rgb(61, 131, 172);
+}
+/* for active */
+button :active{
+    background-color: cadetblue;
+}
+ /* for display hover */
+input:hover{
+    background-color: rgb(182, 207, 70);
+}
+/* for active */
+input:active{
+    background-color: cadetblue;
+}
